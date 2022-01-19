@@ -1,0 +1,1858 @@
+﻿Log file open, 12/28/21 00:39:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VideoGallery
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 6.093052
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD Athlon(tm) 64 X2 Dual Core Processor 3800+, GPU: NVIDIA GeForce GT 1030
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Programs/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.12.27-21.39.45:136][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.12.27-21.39.45:136][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.12.27-21.39.45:143][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Work/VideoGallery/VideoGallery/Saved/Config/Windows/Engine.ini]
+[2021.12.27-21.39.45:143][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.12.27-21.39.45:143][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2021.12.27-21.39.45:143][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2021.12.27-21.39.45:143][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2021.12.27-21.39.45:143][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2021.12.27-21.39.45:143][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2021.12.27-21.39.45:143][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2021.12.27-21.39.45:144][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2021.12.27-21.39.45:144][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2021.12.27-21.39.45:144][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2021.12.27-21.39.45:144][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2021.12.27-21.39.45:144][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2021.12.27-21.39.45:144][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2021.12.27-21.39.45:144][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2021.12.27-21.39.45:144][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2021.12.27-21.39.45:144][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2021.12.27-21.39.45:144][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2021.12.27-21.39.45:144][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2021.12.27-21.39.45:144][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2021.12.27-21.39.45:144][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2021.12.27-21.39.45:144][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2021.12.27-21.39.45:144][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2021.12.27-21.39.45:144][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2021.12.27-21.39.45:144][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2021.12.27-21.39.45:144][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2021.12.27-21.39.45:144][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2021.12.27-21.39.45:144][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2021.12.27-21.39.45:144][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2021.12.27-21.39.45:144][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2021.12.27-21.39.45:144][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2021.12.27-21.39.45:144][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2021.12.27-21.39.45:144][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2021.12.27-21.39.45:144][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2021.12.27-21.39.45:145][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2021.12.27-21.39.45:145][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2021.12.27-21.39.45:145][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2021.12.27-21.39.45:145][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2021.12.27-21.39.45:145][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2021.12.27-21.39.45:145][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2021.12.27-21.39.45:145][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2021.12.27-21.39.45:145][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2021.12.27-21.39.45:145][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2021.12.27-21.39.45:145][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2021.12.27-21.39.45:145][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2021.12.27-21.39.45:145][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.12.27-21.39.45:145][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2021.12.27-21.39.45:145][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2021.12.27-21.39.45:145][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2021.12.27-21.39.45:145][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2021.12.27-21.39.45:145][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2021.12.27-21.39.45:145][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2021.12.27-21.39.45:145][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2021.12.27-21.39.45:145][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2021.12.27-21.39.45:145][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2021.12.27-21.39.45:145][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2021.12.27-21.39.45:145][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2021.12.27-21.39.45:145][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2021.12.27-21.39.45:145][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2021.12.27-21.39.45:145][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2021.12.27-21.39.45:151][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2021.12.27-21.39.45:151][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2021.12.27-21.39.45:151][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2021.12.27-21.39.45:151][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2021.12.27-21.39.45:151][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2021.12.27-21.39.45:151][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2021.12.27-21.39.45:151][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2021.12.27-21.39.45:151][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2021.12.27-21.39.45:151][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2021.12.27-21.39.45:151][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2021.12.27-21.39.45:151][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2021.12.27-21.39.45:151][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2021.12.27-21.39.45:151][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2021.12.27-21.39.45:151][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2021.12.27-21.39.45:151][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2021.12.27-21.39.45:151][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2021.12.27-21.39.45:151][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2021.12.27-21.39.45:151][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2021.12.27-21.39.45:151][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2021.12.27-21.39.45:151][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2021.12.27-21.39.45:152][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2021.12.27-21.39.45:152][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2021.12.27-21.39.45:152][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2021.12.27-21.39.45:152][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2021.12.27-21.39.45:152][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2021.12.27-21.39.45:153][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2021.12.27-21.39.45:153][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2021.12.27-21.39.45:153][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2021.12.27-21.39.45:153][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2021.12.27-21.39.45:153][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2021.12.27-21.39.45:153][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2021.12.27-21.39.45:153][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2021.12.27-21.39.45:153][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2021.12.27-21.39.45:153][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2021.12.27-21.39.45:153][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2021.12.27-21.39.45:153][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2021.12.27-21.39.45:153][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2021.12.27-21.39.45:153][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2021.12.27-21.39.45:153][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2021.12.27-21.39.45:153][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Work/VideoGallery/VideoGallery/Saved/Config/Windows/Engine.ini]
+[2021.12.27-21.39.45:153][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Work/VideoGallery/VideoGallery/Saved/Config/Windows/Engine.ini]
+[2021.12.27-21.39.45:154][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.12.27-21.39.45:154][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.12.27-21.39.45:154][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.12.27-21.39.45:154][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.12.27-21.39.45:154][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.12.27-21.39.45:154][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.12.27-21.39.45:154][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.12.27-21.39.45:154][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.12.27-21.39.45:154][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.12.27-21.39.45:154][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.12.27-21.39.45:154][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.12.27-21.39.45:154][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.12.27-21.39.45:154][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.12.27-21.39.45:154][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.12.27-21.39.45:154][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Work/VideoGallery/VideoGallery/Saved/Config/Windows/Engine.ini]
+[2021.12.27-21.39.45:154][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.12.27-21.39.45:154][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.12.27-21.39.45:154][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.12.27-21.39.45:154][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.12.27-21.39.45:154][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.12.27-21.39.45:154][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.12.27-21.39.45:154][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.12.27-21.39.45:154][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.12.27-21.39.45:154][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.12.27-21.39.45:154][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.12.27-21.39.45:155][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.12.27-21.39.45:155][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.12.27-21.39.45:155][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.12.27-21.39.45:155][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Work/VideoGallery/VideoGallery/Saved/Config/Windows/Engine.ini]
+[2021.12.27-21.39.45:155][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Work/VideoGallery/VideoGallery/Saved/Config/Windows/Engine.ini]
+[2021.12.27-21.39.45:195][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Work/VideoGallery/VideoGallery/Saved/Config/Windows/Scalability.ini]
+[2021.12.27-21.39.45:195][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.27-21.39.45:195][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.27-21.39.45:195][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Work/VideoGallery/VideoGallery/Saved/Config/Windows/Scalability.ini]
+[2021.12.27-21.39.45:195][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.27-21.39.45:195][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Work/VideoGallery/VideoGallery/Saved/Config/Windows/Scalability.ini]
+[2021.12.27-21.39.45:195][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.27-21.39.45:195][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.27-21.39.45:195][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.27-21.39.45:195][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.27-21.39.45:195][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.27-21.39.45:195][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.27-21.39.45:195][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.27-21.39.45:195][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.27-21.39.45:196][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.27-21.39.45:196][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.27-21.39.45:196][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.27-21.39.45:196][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.27-21.39.45:196][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.27-21.39.45:196][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.27-21.39.45:196][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.27-21.39.45:196][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.27-21.39.45:196][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.27-21.39.45:196][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.27-21.39.45:196][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Work/VideoGallery/VideoGallery/Saved/Config/Windows/Scalability.ini]
+[2021.12.27-21.39.45:196][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.27-21.39.45:196][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.27-21.39.45:196][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.27-21.39.45:196][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.27-21.39.45:196][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.27-21.39.45:196][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.27-21.39.45:196][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.27-21.39.45:196][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.27-21.39.45:196][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.27-21.39.45:196][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.27-21.39.45:196][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.27-21.39.45:196][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.27-21.39.45:196][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.27-21.39.45:196][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.27-21.39.45:196][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.27-21.39.45:196][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.27-21.39.45:197][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.27-21.39.45:197][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.27-21.39.45:197][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.27-21.39.45:197][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.27-21.39.45:197][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.27-21.39.45:197][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.27-21.39.45:197][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.27-21.39.45:197][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.27-21.39.45:197][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.27-21.39.45:197][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.27-21.39.45:197][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.27-21.39.45:197][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.27-21.39.45:197][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.27-21.39.45:197][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.27-21.39.45:197][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Work/VideoGallery/VideoGallery/Saved/Config/Windows/Scalability.ini]
+[2021.12.27-21.39.45:197][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.27-21.39.45:197][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.27-21.39.45:197][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.27-21.39.45:197][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.27-21.39.45:197][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.27-21.39.45:197][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.27-21.39.45:197][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.27-21.39.45:197][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.27-21.39.45:197][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.27-21.39.45:197][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Work/VideoGallery/VideoGallery/Saved/Config/Windows/Scalability.ini]
+[2021.12.27-21.39.45:197][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.27-21.39.45:198][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.27-21.39.45:198][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.27-21.39.45:198][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.27-21.39.45:198][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.27-21.39.45:199][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.27-21.39.45:199][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.27-21.39.45:199][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.27-21.39.45:199][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.27-21.39.45:199][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.27-21.39.45:199][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.27-21.39.45:199][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.12.27-21.39.45:199][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.27-21.39.45:199][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.27-21.39.45:199][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.27-21.39.45:199][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.27-21.39.45:199][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.12.27-21.39.45:199][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.27-21.39.45:199][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.27-21.39.45:199][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.27-21.39.45:199][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.12.27-21.39.45:199][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.27-21.39.45:200][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.12.27-21.39.45:200][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.27-21.39.45:200][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.27-21.39.45:200][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.27-21.39.45:200][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Work/VideoGallery/VideoGallery/Saved/Config/Windows/Scalability.ini]
+[2021.12.27-21.39.45:201][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.27-21.39.45:201][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.27-21.39.45:201][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Work/VideoGallery/VideoGallery/Saved/Config/Windows/Scalability.ini]
+[2021.12.27-21.39.45:201][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.12.27-21.39.45:201][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.12.27-21.39.45:201][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.12.27-21.39.45:207][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.27-21.39.45:207][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.12.27-21.39.45:288][  0]LogHAL: Display: Platform has ~ 6 GB [6440865792 / 8589934592 / 6], which maps to Smaller [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.12.27-21.39.45:288][  0]LogInit: Going up to parent DeviceProfile []
+[2021.12.27-21.39.45:288][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [E:/Work/VideoGallery/VideoGallery/Saved/Config/Windows/Scalability.ini]
+[2021.12.27-21.39.45:289][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2021.12.27-21.39.45:289][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2021.12.27-21.39.45:289][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [E:/Work/VideoGallery/VideoGallery/Saved/Config/Windows/Scalability.ini]
+[2021.12.27-21.39.45:289][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2021.12.27-21.39.45:289][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [E:/Work/VideoGallery/VideoGallery/Saved/Config/Windows/Scalability.ini]
+[2021.12.27-21.39.45:289][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.27-21.39.45:289][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.27-21.39.45:289][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2021.12.27-21.39.45:289][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2021.12.27-21.39.45:289][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.27-21.39.45:289][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2021.12.27-21.39.45:289][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2021.12.27-21.39.45:289][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2021.12.27-21.39.45:289][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2021.12.27-21.39.45:289][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.27-21.39.45:289][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.27-21.39.45:289][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2021.12.27-21.39.45:289][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.27-21.39.45:289][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2021.12.27-21.39.45:289][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2021.12.27-21.39.45:289][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.27-21.39.45:289][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.27-21.39.45:289][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.27-21.39.45:290][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [E:/Work/VideoGallery/VideoGallery/Saved/Config/Windows/Scalability.ini]
+[2021.12.27-21.39.45:290][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.12.27-21.39.45:290][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2021.12.27-21.39.45:290][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2021.12.27-21.39.45:290][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.12.27-21.39.45:290][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2021.12.27-21.39.45:290][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.12.27-21.39.45:290][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2021.12.27-21.39.45:290][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.12.27-21.39.45:290][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.12.27-21.39.45:290][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2021.12.27-21.39.45:290][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2021.12.27-21.39.45:290][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.12.27-21.39.45:290][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2021.12.27-21.39.45:290][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2021.12.27-21.39.45:290][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2021.12.27-21.39.45:290][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2021.12.27-21.39.45:290][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2021.12.27-21.39.45:290][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [E:/Work/VideoGallery/VideoGallery/Saved/Config/Windows/Scalability.ini]
+[2021.12.27-21.39.45:290][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2021.12.27-21.39.45:290][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2021.12.27-21.39.45:290][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2021.12.27-21.39.45:290][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2021.12.27-21.39.45:291][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2021.12.27-21.39.45:291][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2021.12.27-21.39.45:291][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2021.12.27-21.39.45:291][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2021.12.27-21.39.45:291][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.27-21.39.45:291][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Work/VideoGallery/VideoGallery/Saved/Config/Windows/Scalability.ini]
+[2021.12.27-21.39.45:291][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.27-21.39.45:291][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.27-21.39.45:291][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.27-21.39.45:291][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.27-21.39.45:291][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.27-21.39.45:291][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.27-21.39.45:291][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.27-21.39.45:291][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.27-21.39.45:291][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.27-21.39.45:291][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.27-21.39.45:291][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.27-21.39.45:291][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.12.27-21.39.45:291][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.27-21.39.45:291][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.27-21.39.45:292][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.27-21.39.45:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.27-21.39.45:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.12.27-21.39.45:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.27-21.39.45:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.27-21.39.45:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.27-21.39.45:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.12.27-21.39.45:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.27-21.39.45:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.12.27-21.39.45:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.27-21.39.45:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.27-21.39.45:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.27-21.39.45:292][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [E:/Work/VideoGallery/VideoGallery/Saved/Config/Windows/Scalability.ini]
+[2021.12.27-21.39.45:292][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2021.12.27-21.39.45:292][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2021.12.27-21.39.45:292][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [E:/Work/VideoGallery/VideoGallery/Saved/Config/Windows/Scalability.ini]
+[2021.12.27-21.39.45:292][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:8]]
+[2021.12.27-21.39.45:292][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.12.27-21.39.45:292][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2021.12.27-21.39.45:292][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.12.27-21.39.45:360][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.12.27-21.39.45:360][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.12.27-21.39.45:360][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Work/VideoGallery/VideoGallery/Saved/Config/Windows/Engine.ini]
+[2021.12.27-21.39.45:369][  0]LogInit: Computer: DESKTOP-RREAEIB
+[2021.12.27-21.39.45:369][  0]LogInit: User: Semyon
+[2021.12.27-21.39.45:369][  0]LogInit: CPU Page size=4096, Cores=2
+[2021.12.27-21.39.45:369][  0]LogInit: High frequency timer resolution =3.579545 MHz
+[2021.12.27-21.39.45:370][  0]LogMemory: Memory total: Physical=6.0GB (6GB approx)
+[2021.12.27-21.39.45:370][  0]LogMemory: Platform Memory Stats for Windows
+[2021.12.27-21.39.45:370][  0]LogMemory: Process Physical Memory: 107.48 MB used, 107.49 MB peak
+[2021.12.27-21.39.45:370][  0]LogMemory: Process Virtual Memory: 99.28 MB used, 99.28 MB peak
+[2021.12.27-21.39.45:370][  0]LogMemory: Physical Memory: 4064.13 MB used,  2078.36 MB free, 6142.49 MB total
+[2021.12.27-21.39.45:370][  0]LogMemory: Virtual Memory: 5117.68 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2021.12.27-21.39.45:413][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.12.27-21.39.47:188][  0]LogInit: Using OS detected language (ru-RU).
+[2021.12.27-21.39.47:188][  0]LogInit: Using OS detected locale (ru-RU).
+[2021.12.27-21.39.47:218][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2021.12.27-21.39.47:222][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2021.12.27-21.39.47:223][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2021.12.27-21.39.47:224][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2021.12.27-21.39.47:224][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2021.12.27-21.39.47:233][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2021.12.27-21.39.47:234][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2021.12.27-21.39.47:235][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2021.12.27-21.39.47:393][  0]LogInit: Setting process to per monitor DPI aware
+[2021.12.27-21.39.48:196][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.12.27-21.39.48:196][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.12.27-21.39.59:749][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.27-21.39.59:749][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.12.27-21.39.59:749][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.12.27-21.39.59:749][  0]LogD3D11RHI: D3D11 adapters:
+[2021.12.27-21.40.02:798][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 1030' (Feature Level 11_0)
+[2021.12.27-21.40.02:798][  0]LogD3D11RHI:       1982/0/3071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.12.27-21.40.02:847][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.12.27-21.40.02:848][  0]LogD3D11RHI:       0/0/3071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.12.27-21.40.02:848][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.12.27-21.40.02:881][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.12.27-21.40.02:882][  0]LogD3D11RHI:     GPU DeviceId: 0x1d01 (for the marketing name, search the web for "GPU Device Id")
+[2021.12.27-21.40.02:882][  0]LogWindows: EnumDisplayDevices:
+[2021.12.27-21.40.02:883][  0]LogWindows:    0. 'NVIDIA GeForce GT 1030' (P:1 D:1)
+[2021.12.27-21.40.02:890][  0]LogWindows:    1. 'NVIDIA GeForce GT 1030' (P:0 D:0)
+[2021.12.27-21.40.02:891][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2021.12.27-21.40.02:891][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 1030
+[2021.12.27-21.40.02:891][  0]LogD3D11RHI:   Driver Version: 472.12 (internal:30.0.14.7212, unified:472.12)
+[2021.12.27-21.40.02:892][  0]LogD3D11RHI:      Driver Date: 9-13-2021
+[2021.12.27-21.40.02:892][  0]LogRHI: Texture pool is 1387 MB (70% of 1982 MB)
+[2021.12.27-21.40.03:131][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.12.27-21.40.03:132][  0]LogD3D11RHI: Async texture creation enabled
+[2021.12.27-21.40.03:606][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.12.27-21.40.09:280][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.12.27-21.40.09:724][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.12.27-21.40.09:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.12.27-21.40.09:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2021.12.27-21.40.09:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.12.27-21.40.09:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2021.12.27-21.40.09:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2021.12.27-21.40.09:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.12.27-21.40.09:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2021.12.27-21.40.09:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.12.27-21.40.09:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.12.27-21.40.09:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2021.12.27-21.40.09:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.12.27-21.40.09:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2021.12.27-21.40.09:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2021.12.27-21.40.09:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.12.27-21.40.09:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2021.12.27-21.40.09:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.12.27-21.40.09:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.12.27-21.40.10:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.12.27-21.40.10:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.12.27-21.40.10:150][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.12.27-21.40.10:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.12.27-21.40.10:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.12.27-21.40.10:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.12.27-21.40.10:530][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.12.27-21.40.10:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.12.27-21.40.10:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.12.27-21.40.10:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.12.27-21.40.10:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.12.27-21.40.10:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.12.27-21.40.11:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.12.27-21.40.11:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.12.27-21.40.11:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.12.27-21.40.11:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.12.27-21.40.11:342][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.12.27-21.40.11:721][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.12.27-21.40.13:607][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../../Work/VideoGallery/VideoGallery/Intermediate/Shaders/WorkingDirectory/3720/).
+[2021.12.27-21.40.13:608][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Semyon/AppData/Local/Temp/UnrealShaderWorkingDir/9038B0E04EF52DC82F1EFBA5AD9B5FB2/'.
+[2021.12.27-21.40.13:639][  0]LogXGEController: Cleaning working directory: C:/Users/Semyon/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.12.27-21.40.13:640][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.12.27-21.40.13:641][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.12.27-21.40.13:641][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.12.27-21.40.30:125][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.12.27-21.40.31:092][  0]LogDerivedDataCache: Loaded boot cache 0.95s 92MB C:/Users/Semyon/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.12.27-21.40.31:092][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Semyon/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2021.12.27-21.40.31:092][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Work/VideoGallery/VideoGallery/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.12.27-21.40.31:093][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.12.27-21.40.31:093][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Work/VideoGallery/VideoGallery/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.27-21.40.31:093][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.12.27-21.40.31:210][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.12.27-21.40.31:210][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.27-21.40.31:210][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.12.27-21.40.31:239][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Semyon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.12.27-21.40.31:239][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.12.27-21.40.31:240][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.12.27-21.40.31:549][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.12.27-21.40.31:782][  0]LogSlate: Using FreeType 2.10.0
+[2021.12.27-21.40.31:980][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.12.27-21.40.38:390][  0]LogAssetRegistry: FAssetRegistry took 0.0176 seconds to start up
+[2021.12.27-21.40.43:884][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.27-21.40.47:688][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.12.27-21.40.47:689][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.12.27-21.40.47:689][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.12.27-21.40.47:689][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.12.27-21.40.47:689][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.12.27-21.40.48:399][  0]LogNetVersion: VideoGallery 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3425560377)
+[2021.12.27-21.41.37:628][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.206890 seconds
+[2021.12.27-21.41.37:676][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2021.12.27-21.41.37:676][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2021.12.27-21.41.37:676][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.12.27-21.41.48:765][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.12.27-21.41.48:874][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.12.27-21.41.50:860][  0]SourceControl: Source control is disabled
+[2021.12.27-21.41.50:869][  0]SourceControl: Source control is disabled
+[2021.12.27-21.41.51:013][  0]SourceControl: Source control is disabled
+[2021.12.27-21.41.51:110][  0]SourceControl: Source control is disabled
+[2021.12.27-21.41.51:188][  0]SourceControl: Source control is disabled
+[2021.12.27-21.41.54:936][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.12.27-21.41.55:437][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.27-21.41.55:437][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.27-21.41.56:888][  0]LogOcInput: OculusInput pre-init called
+[2021.12.27-21.41.57:114][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.12.27-21.41.57:114][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.12.27-21.41.59:047][  0]LogEngine: Initializing Engine...
+[2021.12.27-21.41.59:072][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.27-21.41.59:180][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.029 s
+[2021.12.27-21.42.01:965][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.12.27-21.42.02:612][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.12.27-21.42.02:875][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.27-21.42.02:875][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.27-21.42.02:875][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.27-21.42.02:875][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.27-21.42.02:875][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.27-21.42.02:875][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.27-21.42.02:875][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.27-21.42.02:876][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.27-21.42.02:883][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.27-21.42.02:884][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.27-21.42.03:053][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.12.27-21.42.03:053][  0]LogAudioMixer: Display: Name: Динамики (Realtek AC'97 Audio)
+[2021.12.27-21.42.03:053][  0]LogAudioMixer: Display: Is Default: Yes
+[2021.12.27-21.42.03:053][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2021.12.27-21.42.03:053][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2021.12.27-21.42.03:053][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2021.12.27-21.42.03:054][  0]LogAudioMixer: Display: Channel Order:
+[2021.12.27-21.42.03:054][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.27-21.42.03:054][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.12.27-21.42.03:285][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek AC'97 Audio)
+[2021.12.27-21.42.03:320][  0]LogInit: FAudioDevice initialized.
+[2021.12.27-21.42.03:327][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.12.27-21.42.03:648][  0]LogDerivedDataCache: Saved boot cache 0.32s 78MB C:/Users/Semyon/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.12.27-21.42.03:665][  0]LogInit: Texture streaming: Enabled
+[2021.12.27-21.42.04:316][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.12.27-21.42.04:331][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.12.27-21.42.04:348][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.12.27-21.42.05:965][  0]LogInit: Transaction tracking system initialized
+[2021.12.27-21.42.07:043][  0]BlueprintLog: New page: Editor Load
+[2021.12.27-21.42.10:315][  0]LocalizationService: Localization service is disabled
+[2021.12.27-21.42.18:080][  0]LogFileCache: Scanning file cache for directory 'E:/Work/VideoGallery/VideoGallery/Content/' took 0.09s
+[2021.12.27-21.42.18:080][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.12.27-21.42.18:080][  0]LogCook: Display: Mobile HDR setting 1
+[2021.12.27-21.42.29:898][  0]SourceControl: Source control is disabled
+[2021.12.27-21.42.30:036][  0]Cmd: MAP LOAD FILE="../../../../../Work/VideoGallery/VideoGallery/Content/Level/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.27-21.42.30:271][  0]LightingResults: New page: Lighting Build
+[2021.12.27-21.42.30:776][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-21.42.30:950][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-21.42.30:998][  0]MapCheck: New page: Map Check
+[2021.12.27-21.42.30:998][  0]LightingResults: New page: Lighting Build
+[2021.12.27-21.42.32:908][  0]LogUObjectHash: Compacting FUObjectHashTables data took   9.71ms
+[2021.12.27-21.42.36:388][  0]LogMaterial: Display: Missing cached shader map for material M_VideoPlayer, compiling. 
+[2021.12.27-21.42.36:910][  0]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 11
+[2021.12.27-21.42.36:965][  0]LogAIModule: Creating AISystem for world MainLevel
+[2021.12.27-21.42.38:141][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.27-21.42.38:414][  0]LogUObjectHash: Compacting FUObjectHashTables data took  10.20ms
+[2021.12.27-21.42.38:424][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.27-21.42.38:442][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 17,803ms to complete.
+[2021.12.27-21.42.38:447][  0]LogFileHelpers: Loading map 'MainLevel' took 8.472
+[2021.12.27-21.42.42:067][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-21.42.42:128][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-21.42.42:178][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-21.42.42:238][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-21.42.42:487][  0]LogCollectionManager: Loaded 0 collections in 0.002728 seconds
+[2021.12.27-21.42.43:107][  0]LogFileCache: Scanning file cache for directory 'E:/Work/VideoGallery/VideoGallery/Saved/Collections/' took 0.48s
+[2021.12.27-21.42.43:107][  0]LogFileCache: Scanning file cache for directory 'E:/Work/VideoGallery/VideoGallery/Content/Developers/Semyon/Collections/' took 0.00s
+[2021.12.27-21.42.43:107][  0]LogFileCache: Scanning file cache for directory 'E:/Work/VideoGallery/VideoGallery/Content/Collections/' took 0.00s
+[2021.12.27-21.42.43:108][  0]LogContentBrowser: Native class hierarchy populated in 0.0266 seconds. Added 3015 classes and 717 folders.
+[2021.12.27-21.42.43:233][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.12.27-21.42.47:693][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.12.27-21.42.47:836][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 3 folders.
+[2021.12.27-21.42.49:696][  0]LogSlate: Took 0.032365 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.12.27-21.42.49:749][  0]LogSlate: Took 0.036697 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.12.27-21.42.49:878][  0]LogSlate: Took 0.024064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.12.27-21.42.51:208][  0]LogRenderer: Reallocating scene render targets to support 1068x596 Format 10 NumSamples 1 (Frame:1).
+[2021.12.27-21.42.52:638][  0]LogSlate: Took 0.022058 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.27-21.42.55:267][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2021.12.27-21.42.55:267][  0]LogLoad: (Engine Initialization) Total time: 216.95 seconds
+[2021.12.27-21.42.55:268][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.12.27-21.42.55:846][  0]LogContentStreaming: Texture pool size now 400 MB
+[2021.12.27-21.42.56:544][  2]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.42.56:612][  2]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.42.56:883][  5]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.42.56:967][  6]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.42.57:523][  8]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.42.57:961][ 11]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.42.57:961][ 11]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.42.58:366][ 13]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.42.58:366][ 13]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.42.58:454][ 14]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.42.58:636][ 15]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.42.58:636][ 15]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.42.58:750][ 16]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.42.58:847][ 17]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.42.58:965][ 18]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.42.59:098][ 20]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.42.59:192][ 21]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.42.59:805][ 22]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.42.59:808][ 22]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.42.59:808][ 22]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.42.59:808][ 22]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.42.59:808][ 22]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.42.59:916][ 23]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.42.59:918][ 23]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.00:139][ 25]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.00:139][ 25]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.00:140][ 25]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.00:587][ 29]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.00:690][ 30]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.00:690][ 30]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.02:032][ 32]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.02:032][ 32]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.02:032][ 32]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.02:032][ 32]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.02:032][ 32]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.02:032][ 32]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.02:032][ 32]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.02:032][ 32]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.02:032][ 32]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.02:113][ 33]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.02:272][ 34]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.12.27-21.43.02:273][ 34]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.12.27-21.43.05:548][ 46]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.05:830][ 47]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.05:873][ 47]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.05:930][ 47]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.05:978][ 47]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.06:102][ 48]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.06:102][ 48]LogAssetRegistry: Asset discovery search completed in 147.7195 seconds
+[2021.12.27-21.43.06:144][ 48]LogCollectionManager: Fixed up redirectors for 0 collections in 0.009631 seconds (updated 0 objects)
+[2021.12.27-21.43.07:903][100]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.09:226][131]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.09:837][150]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.10:012][152]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.10:078][155]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.11:538][196]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.11:587][198]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.11:766][203]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.11:833][205]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.12:242][218]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.12:637][229]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.14:006][270]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.15:077][300]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.16:046][328]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.16:347][331]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.17:475][359]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.18:931][379]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.19:483][388]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.21:043][413]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.21:043][413]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.23:444][440]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.23:444][440]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:417][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:417][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:417][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:417][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:417][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:417][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:417][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:417][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:417][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:417][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:417][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:417][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:417][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:417][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:417][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:417][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:417][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:417][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:417][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:417][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:417][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:418][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:419][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:419][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:419][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:419][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:419][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:419][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:419][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:419][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:419][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:419][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:419][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:419][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:419][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:419][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:419][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:419][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:419][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:419][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:419][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:419][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:419][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:419][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:419][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:419][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:419][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.30:439][446]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.32:397][448]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.32:397][448]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.32:397][448]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.32:397][448]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.32:397][448]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.32:397][448]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.32:397][448]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.32:397][448]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.32:397][448]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.32:397][448]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.32:397][448]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.32:397][448]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.32:397][448]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.32:397][448]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.32:397][448]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.32:397][448]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.34:088][475]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.34:670][480]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.34:670][480]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.34:670][480]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.36:460][504]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 1
+[2021.12.27-21.43.38:792][519]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.38:792][519]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.42:723][529]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.42:723][529]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.42:723][529]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.42:723][529]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.43:093][531]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.49:057][547]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.49:058][547]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.51:267][553]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.51:267][553]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.56:055][636]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.56:055][636]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.56:055][636]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.56:055][636]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.56:641][638]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.56:641][638]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.43.57:762][642]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.05:072][745]LogActorFactory: Actor Factory created Sphere
+[2021.12.27-21.44.08:889][747]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.08:889][747]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.09:152][747]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.09:215][747]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.09:266][747]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.09:379][747]LogActorFactory: Actor Factory created Sphere
+[2021.12.27-21.44.17:291][766]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.17:291][766]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.17:291][766]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.17:291][766]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.19:629][798]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.21:948][825]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.23:510][853]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.23:926][864]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.29:634][ 22]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.29:853][ 24]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.29:897][ 25]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.30:203][ 33]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.30:605][ 41]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.33:918][131]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.34:143][137]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.34:590][145]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.34:666][147]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.42:450][293]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.45:895][351]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.48:928][400]LogSlate: Took 0.000384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.27-21.44.49:001][400]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Videos/M_VideoPlayer.M_VideoPlayer
+[2021.12.27-21.44.49:078][400]LogMaterial: Display: Missing cached shader map for material M_VideoPlayer, compiling. 
+[2021.12.27-21.44.50:656][400]LogMaterial: Display: Missing cached shader map for material M_VideoPlayer, compiling. 
+[2021.12.27-21.44.50:698][400]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.12.27-21.44.50:760][400]LogMaterial: Display: Missing cached shader map for material M_VideoPlayer, compiling. 
+[2021.12.27-21.44.50:829][400]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.12.27-21.44.51:200][400]LogSlate: Took 0.038732 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.12.27-21.44.51:744][401]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.51:915][402]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.52:071][405]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.52:278][407]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.52:390][409]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.53:053][415]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.53:474][428]LogSlate: Window 'M_VideoPlayer' being destroyed
+[2021.12.27-21.44.53:591][432]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.53:701][434]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.53:867][438]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.55:681][470]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.56:925][506]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.44.58:332][527]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.01:198][527]LogSlate: Window 'Message' being destroyed
+[2021.12.27-21.45.01:436][527]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-21.45.01:437][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-21.45.01:622][529]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.02:267][537]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.02:476][540]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.12.27-21.45.03:278][552]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.03:696][565]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.03:828][569]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.04:267][578]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.05:214][592]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.05:997][610]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.06:597][619]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.07:300][632]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.07:411][633]LogMaterial: Display: Missing cached shader map for material M_VideoPlayer1, compiling. 
+[2021.12.27-21.45.07:723][636]LogSlate: Slate: Had to block on waiting for a draw buffer
+[2021.12.27-21.45.07:748][637]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.08:899][648]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.09:049][648]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.09:189][649]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.09:375][650]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.09:516][651]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.09:638][651]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.14:113][727]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.14:259][731]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.14:775][746]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.15:634][771]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.12.27-21.45.15:634][771]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.12.27-21.45.41:649][805]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.41:649][805]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.41:649][805]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.41:649][805]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.41:649][805]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.41:649][805]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 19
+[2021.12.27-21.45.41:649][805]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 18
+[2021.12.27-21.45.41:649][805]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 17
+[2021.12.27-21.45.41:649][805]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 16
+[2021.12.27-21.45.41:649][805]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 15
+[2021.12.27-21.45.41:649][805]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 14
+[2021.12.27-21.45.41:649][805]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 13
+[2021.12.27-21.45.41:649][805]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 12
+[2021.12.27-21.45.41:649][805]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 11
+[2021.12.27-21.45.41:649][805]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.41:649][805]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.41:649][805]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.41:649][805]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.41:649][805]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.45.41:650][805]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 1
+[2021.12.27-21.45.41:749][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Videos/M_3D_VideoPlayer" FILE="../../../../../Work/VideoGallery/VideoGallery/Content/Videos/M_3D_VideoPlayer.uasset" SILENT=true
+[2021.12.27-21.45.42:328][805]LogSavePackage: Moving '../../../../../Work/VideoGallery/VideoGallery/Saved/M_3D_VideoPlayer49D9FCDD44CB4E3F3929DFB8C3F6816E.tmp' to '../../../../../Work/VideoGallery/VideoGallery/Content/Videos/M_3D_VideoPlayer.uasset'
+[2021.12.27-21.45.42:956][805]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2021.12.27-21.45.43:098][805]LogUObjectHash: Compacting FUObjectHashTables data took   6.28ms
+[2021.12.27-21.45.43:204][805]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2021.12.27-21.45.43:343][805]AssetCheck: New page: Asset Save: M_3D_VideoPlayer
+[2021.12.27-21.45.43:344][805]LogContentValidation: Display: Validating Material /Game/Videos/M_3D_VideoPlayer.M_3D_VideoPlayer
+[2021.12.27-21.46.38:223][970]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.46.38:223][970]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.46.46:374][ 32]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Videos/M_3D_VideoPlayer.M_3D_VideoPlayer
+[2021.12.27-21.46.46:399][ 32]LogMaterial: Display: Missing cached shader map for material M_3D_VideoPlayer, compiling. 
+[2021.12.27-21.46.46:651][ 32]LogMaterial: Display: Missing cached shader map for material M_3D_VideoPlayer, compiling. 
+[2021.12.27-21.46.46:671][ 32]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.12.27-21.46.46:685][ 32]LogMaterial: Display: Missing cached shader map for material M_3D_VideoPlayer, compiling. 
+[2021.12.27-21.46.46:761][ 32]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.12.27-21.46.47:397][ 35]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.46.47:458][ 36]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.46.47:564][ 37]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.46.47:635][ 38]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.46.47:696][ 39]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.46.47:772][ 40]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.46.48:397][ 47]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.46.48:499][ 48]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.46.48:763][ 52]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.46.48:986][ 55]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.46.49:031][ 56]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.46.49:524][ 60]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.46.49:806][ 69]LogSlate: Window 'M_3D_VideoPlayer' being destroyed
+[2021.12.27-21.46.50:338][ 82]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.46.50:823][ 87]LogMaterial: Display: Missing cached shader map for material M_3D_VideoPlayer, compiling. 
+[2021.12.27-21.46.52:178][100]LogMaterial: Display: Missing cached shader map for material M_3D_VideoPlayer, compiling. 
+[2021.12.27-21.46.52:339][100]LogMaterial: Display: Missing cached shader map for material M_3D_VideoPlayer, compiling. 
+[2021.12.27-21.46.52:438][100]LogMaterial: Display: Missing cached shader map for material M_3D_VideoPlayer, compiling. 
+[2021.12.27-21.46.53:292][108]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.46.53:695][114]LogMaterial: Display: Missing cached shader map for material M_3D_VideoPlayer, compiling. 
+[2021.12.27-21.46.55:682][146]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.46.55:947][150]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.46.56:272][154]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.46.58:037][185]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.46.59:377][223]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.46.59:445][225]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.46.59:557][227]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.00:731][242]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.01:293][258]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.01:347][260]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.01:758][272]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.02:886][306]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.03:078][311]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.03:699][323]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.05:042][358]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.07:844][439]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.07:890][441]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.08:581][459]LogMaterial: Display: Missing cached shader map for material M_3D_VideoPlayer, compiling. 
+[2021.12.27-21.47.08:667][460]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.09:437][477]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.10:214][487]LogMaterial: Display: Missing cached shader map for material M_3D_VideoPlayer, compiling. 
+[2021.12.27-21.47.10:247][487]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.11:029][509]LogMaterial: Display: Missing cached shader map for material M_3D_VideoPlayer, compiling. 
+[2021.12.27-21.47.11:096][510]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.12:624][533]LogMaterial: Display: Missing cached shader map for material M_3D_VideoPlayer, compiling. 
+[2021.12.27-21.47.12:658][533]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.13:565][556]LogMaterial: Display: Missing cached shader map for material M_3D_VideoPlayer, compiling. 
+[2021.12.27-21.47.13:637][557]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.14:933][575]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.15:201][579]LogMaterial: Display: Missing cached shader map for material M_3D_VideoPlayer, compiling. 
+[2021.12.27-21.47.15:250][580]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.15:368][582]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.15:498][583]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.18:209][627]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 13
+[2021.12.27-21.47.18:803][641]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.20:915][674]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.21:476][684]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.21:790][686]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.21:880][689]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.22:019][694]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.22:180][698]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.22:897][716]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.23:406][729]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.24:313][754]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.24:380][756]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.24:529][758]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.25:144][776]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.26:848][805]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.27:206][811]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.28:496][831]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.28:661][833]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.31:695][890]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.32:789][904]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.33:867][932]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.36:318][981]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.38:512][ 34]LogMaterial: Display: Missing cached shader map for material M_3D_VideoPlayer, compiling. 
+[2021.12.27-21.47.38:588][ 34]LogMaterial: Display: Missing cached shader map for material M_3D_VideoPlayer, compiling. 
+[2021.12.27-21.47.38:714][ 34]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.39:119][ 47]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.39:156][ 48]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.39:476][ 56]LogMaterial: Display: Missing cached shader map for material M_3D_VideoPlayer, compiling. 
+[2021.12.27-21.47.40:228][ 76]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.40:276][ 78]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.40:885][ 94]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.40:917][ 95]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.41:143][100]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.41:436][108]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.41:975][117]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.42:112][121]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.42:379][125]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.42:480][126]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.42:630][128]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.42:807][129]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.42:959][130]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.43:114][131]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.43:215][131]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.43:337][132]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.43:919][141]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.43:953][142]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.43:998][143]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.44:394][154]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.44:496][156]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.44:799][158]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.45:125][167]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.45:368][174]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.45:460][177]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.45:969][186]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.46:031][187]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.46:118][187]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.46:364][190]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.46:694][195]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.47:878][222]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.48:477][231]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.47.48:735][234]LogMaterialEditor: Saving and Compiling material M_3D_VideoPlayer
+[2021.12.27-21.48.05:358][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:358][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:358][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:358][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:359][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:360][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:360][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:360][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:360][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:360][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:360][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:360][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:360][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:868][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:868][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.48.05:868][234]LogMaterial: Display: Missing cached shader map for material M_3D_VideoPlayer, compiling. 
+[2021.12.27-21.48.06:336][234]LogMaterial: Display: Missing cached shader map for material M_3D_VideoPlayer, compiling. 
+[2021.12.27-21.48.06:523][234]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2021.12.27-21.48.06:603][234]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.12.27-21.49.04:860][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:860][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:860][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:860][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:860][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:860][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:860][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:860][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:860][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:860][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:860][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:860][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:860][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:860][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:860][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:860][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:860][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:860][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:860][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:860][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:860][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:860][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:860][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:861][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:861][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:861][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:861][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:865][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:866][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:866][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:866][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:866][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:866][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:866][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:866][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:866][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:866][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:866][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:866][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:866][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:866][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:866][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:866][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:866][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:866][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:866][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:868][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:868][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:868][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:868][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:868][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:868][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:868][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:868][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:868][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:868][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:868][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:868][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:868][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:868][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:868][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:868][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:869][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:869][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:869][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:869][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:869][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:869][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:869][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:869][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:869][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:869][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:869][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:869][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:869][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:869][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:869][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:869][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:869][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:869][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:869][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:869][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:869][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:869][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:870][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:870][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:870][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:870][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:870][234]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 29
+[2021.12.27-21.49.04:870][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:870][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:870][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:870][234]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 28
+[2021.12.27-21.49.04:870][234]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 27
+[2021.12.27-21.49.04:870][234]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 26
+[2021.12.27-21.49.04:870][234]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 25
+[2021.12.27-21.49.04:870][234]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 24
+[2021.12.27-21.49.04:870][234]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 23
+[2021.12.27-21.49.04:870][234]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 22
+[2021.12.27-21.49.04:870][234]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 21
+[2021.12.27-21.49.04:870][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:870][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:870][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.04:870][234]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 20
+[2021.12.27-21.49.04:870][234]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 19
+[2021.12.27-21.49.04:870][234]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 18
+[2021.12.27-21.49.04:870][234]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 17
+[2021.12.27-21.49.04:870][234]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 16
+[2021.12.27-21.49.04:870][234]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 15
+[2021.12.27-21.49.04:977][234]TextureStreamingBuild: Display: Compiling optional shaders took 58.452 seconds.
+[2021.12.27-21.49.05:107][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.12.27-21.49.43:437][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.43:437][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.43:437][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.43:437][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.43:437][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.43:437][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.43:437][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.43:437][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.43:437][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.43:437][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.43:437][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.43:437][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.43:437][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.43:437][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.43:437][234]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 5
+[2021.12.27-21.49.43:437][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.43:437][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.43:437][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.43:438][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.43:438][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.44:765][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Videos/M_3D_VideoPlayer" FILE="../../../../../Work/VideoGallery/VideoGallery/Content/Videos/M_3D_VideoPlayer.uasset" SILENT=true
+[2021.12.27-21.49.45:187][234]LogSavePackage: Moving '../../../../../Work/VideoGallery/VideoGallery/Saved/M_3D_VideoPlayerF4A3693C468076A746A4DFABF0AD4027.tmp' to '../../../../../Work/VideoGallery/VideoGallery/Content/Videos/M_3D_VideoPlayer.uasset'
+[2021.12.27-21.49.45:260][234]AssetCheck: New page: Asset Save: M_3D_VideoPlayer
+[2021.12.27-21.49.45:260][234]LogContentValidation: Display: Validating Material /Game/Videos/M_3D_VideoPlayer.M_3D_VideoPlayer
+[2021.12.27-21.49.45:350][234]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.12.27-21.49.45:350][234]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.12.27-21.49.45:351][234]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.12.27-21.49.45:352][234]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.27-21.49.45:352][234]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.12.27-21.49.45:353][234]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.27-21.49.51:219][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:219][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:219][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:219][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:219][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:219][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:219][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:219][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:219][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:219][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:219][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:219][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:219][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:219][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:219][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:219][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:219][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:219][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:219][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:219][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:219][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:219][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:219][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:219][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:220][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:220][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:223][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:223][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:223][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:223][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:223][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:223][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:223][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:223][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:223][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:223][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:223][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:223][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:223][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:223][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:223][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:223][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:223][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:223][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:223][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:224][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:224][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:224][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:225][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:225][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:225][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:225][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:225][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:225][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:225][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:225][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:225][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:225][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:225][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:232][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:233][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:238][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:239][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:239][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:239][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:239][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:239][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:239][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:239][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:239][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:239][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:239][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:239][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:239][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:239][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:239][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:239][236]LogD3D11RHI: GetQueryData is taking a very long time (5.0 s)
+[2021.12.27-21.49.51:239][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.49.51:239][236]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.50.01:453][267]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.50.01:453][267]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.50.01:772][268]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.50.57:328][433]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.50.58:420][436]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.52.01:701][623]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.52.01:702][623]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.52.01:702][623]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.52.01:702][623]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.52.04:019][661]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-21.52.04:019][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-21.52.09:882][825]LogUObjectHash: Compacting FUObjectHashTables data took   6.86ms
+[2021.12.27-21.52.10:001][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../Work/VideoGallery/VideoGallery/Content/Level/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.27-21.52.10:099][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.12.27-21.52.11:079][825]LogSavePackage: Moving '../../../../../Work/VideoGallery/VideoGallery/Saved/MainLevel5B5D12AA40460C6E4254EC8C5B5B80CB.tmp' to '../../../../../Work/VideoGallery/VideoGallery/Content/Level/MainLevel.umap'
+[2021.12.27-21.52.11:186][825]LogFileHelpers: Saving map 'MainLevel' took 1.185
+[2021.12.27-21.52.11:268][825]AssetCheck: New page: Asset Save: MainLevel
+[2021.12.27-21.52.11:268][825]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2021.12.27-21.52.26:735][ 39]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 E:/Programs/UE_4.24/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.12.27-21.52.26:749][ 39]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2021.12.27-21.52.26:808][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset"
+[2021.12.27-21.52.26:822][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.uasset"
+[2021.12.27-21.52.26:864][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.uasset"
+[2021.12.27-21.52.26:879][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Mannequin/Animations/RightGrip_BS.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Mannequin/Animations/RightGrip_BS.uasset"
+[2021.12.27-21.52.26:910][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Mannequin/Animations/RightHand_AnimBP.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Mannequin/Animations/RightHand_AnimBP.uasset"
+[2021.12.27-21.52.26:930][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset"
+[2021.12.27-21.52.26:962][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.uasset"
+[2021.12.27-21.52.26:986][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.uasset"
+[2021.12.27-21.52.27:000][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton.uasset"
+[2021.12.27-21.52.27:036][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset"
+[2021.12.27-21.52.27:132][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset"
+[2021.12.27-21.52.27:169][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Materials/GenericHMDMaterial.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Materials/GenericHMDMaterial.uasset"
+[2021.12.27-21.52.27:208][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Materials/MF_OccludedPixels.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Materials/MF_OccludedPixels.uasset"
+[2021.12.27-21.52.27:227][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Materials/MI_BaseMaterial2.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Materials/MI_BaseMaterial2.uasset"
+[2021.12.27-21.52.27:250][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Materials/MI_BaseMaterial3.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Materials/MI_BaseMaterial3.uasset"
+[2021.12.27-21.52.27:270][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Materials/MI_ChaperoneOutline.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Materials/MI_ChaperoneOutline.uasset"
+[2021.12.27-21.52.27:308][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Materials/MI_SmallCubes.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Materials/MI_SmallCubes.uasset"
+[2021.12.27-21.52.27:326][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Materials/MI_TeleportCylinderPreview.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Materials/MI_TeleportCylinderPreview.uasset"
+[2021.12.27-21.52.27:361][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Materials/M_ArcEndpoint.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Materials/M_ArcEndpoint.uasset"
+[2021.12.27-21.52.27:400][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Materials/M_BaseMaterial.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Materials/M_BaseMaterial.uasset"
+[2021.12.27-21.52.27:424][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Materials/M_SplineArcMat.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Materials/M_SplineArcMat.uasset"
+[2021.12.27-21.52.27:446][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Materials/M_TeleportPreviews.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Materials/M_TeleportPreviews.uasset"
+[2021.12.27-21.52.27:476][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Materials/TeleportMCP.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Materials/TeleportMCP.uasset"
+[2021.12.27-21.52.27:511][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Meshes/1x1_cube.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Meshes/1x1_cube.uasset"
+[2021.12.27-21.52.27:548][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Meshes/BeaconDirection.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Meshes/BeaconDirection.uasset"
+[2021.12.27-21.52.27:566][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Meshes/BeamMesh.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Meshes/BeamMesh.uasset"
+[2021.12.27-21.52.27:597][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Meshes/GenericHMD.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Meshes/GenericHMD.uasset"
+[2021.12.27-21.52.27:626][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Meshes/SM_FatCylinder.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Meshes/SM_FatCylinder.uasset"
+[2021.12.27-21.52.27:676][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset"
+[2021.12.27-21.52.27:731][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset"
+[2021.12.27-21.52.27:755][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Blueprints/GripEnum.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualRealityBP/Blueprints/GripEnum.uasset"
+[2021.12.27-21.52.27:787][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Blueprints/HMDLocomotionPawn.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualRealityBP/Blueprints/HMDLocomotionPawn.uasset"
+[2021.12.27-21.52.27:801][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Blueprints/MotionControllerHaptics.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualRealityBP/Blueprints/MotionControllerHaptics.uasset"
+[2021.12.27-21.52.27:847][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset"
+[2021.12.27-21.52.27:877][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Blueprints/PickupActorInterface.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualRealityBP/Blueprints/PickupActorInterface.uasset"
+[2021.12.27-21.52.27:891][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Blueprints/VirtualRealityPawn.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualRealityBP/Blueprints/VirtualRealityPawn.uasset"
+[2021.12.27-21.52.27:920][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Maps/HMDLocomotionMap.umap" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualRealityBP/Maps/HMDLocomotionMap.umap"
+[2021.12.27-21.52.28:020][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Maps/HMDLocomotionMap_BuiltData.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualRealityBP/Maps/HMDLocomotionMap_BuiltData.uasset"
+[2021.12.27-21.52.28:044][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualRealityBP/Maps/MotionControllerMap.umap"
+[2021.12.27-21.52.28:094][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset"
+[2021.12.27-21.52.28:129][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Maps/StartupMap.umap" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualRealityBP/Maps/StartupMap.umap"
+[2021.12.27-21.52.28:155][ 39]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset" to "../../../../../Work/VideoGallery/VideoGallery/Content/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset"
+[2021.12.27-21.52.28:360][ 39]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.MannequinHand_Right_CanGrab
+[2021.12.27-21.52.28:365][ 39]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.MannequinHand_Right_CanGrab) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2021.12.27-21.52.28:793][ 39]LogSkeletalMesh: Building Skeletal Mesh MannequinHand_Right...
+[2021.12.27-21.52.29:067][ 39]LogSkeletalMesh: Built Skeletal Mesh [0.32s] /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.MannequinHand_Right
+[2021.12.27-21.52.29:143][ 39]LogMaterial: Display: Missing cached shader map for material M_HandMat, compiling. 
+[2021.12.27-21.52.29:291][ 39]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 39
+[2021.12.27-21.52.29:418][ 39]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.52.29:499][ 39]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.52.29:653][ 39]LogSavePackage: Moving '../../../../../Work/VideoGallery/VideoGallery/Saved/MannequinHand_Right_CanGrabD73FE4A04206C2C23E77349C83136373.tmp' to '../../../../../Work/VideoGallery/VideoGallery/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset'
+[2021.12.27-21.52.29:784][ 39]LogLinker: Warning: Failed to load '/Game/VirtualRealityBP/VirtualReality': Can't find file.
+[2021.12.27-21.52.29:784][ 39]LogLinker: Warning: Failed to load '/Game/VirtualRealityBP/VirtualReality': Can't find file.
+[2021.12.27-21.52.29:785][ 39]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/VirtualRealityBP/VirtualReality.VirtualReality'
+[2021.12.27-21.52.29:819][ 39]AssetCheck: New page: Asset Save: MannequinHand_Right_CanGrab
+[2021.12.27-21.52.29:819][ 39]LogContentValidation: Display: Validating AnimSequence /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.MannequinHand_Right_CanGrab
+[2021.12.27-21.52.34:362][ 72]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.52.34:792][ 73]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.52.34:792][ 73]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.52.41:877][113]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.52.46:240][140]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.53.08:730][248]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.53.08:731][248]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.53.08:731][248]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.53.08:731][248]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.53.08:731][248]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.53.08:731][248]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.53.11:219][252]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 29
+[2021.12.27-21.53.21:838][317]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.53.34:649][395]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.53.34:649][395]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.53.41:075][432]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 19
+[2021.12.27-21.54.03:808][565]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.03:808][565]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.03:808][565]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.03:808][565]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.03:808][565]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.11:026][609]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 9
+[2021.12.27-21.54.30:193][723]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.30:646][724]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.30:646][724]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.30:937][725]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.31:579][726]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.31:579][726]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.32:992][737]LogSlate: Window 'Add Content to the Project' being destroyed
+[2021.12.27-21.54.33:138][740]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.33:385][746]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.33:819][752]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.33:819][752]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.33:949][753]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.33:949][753]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.34:013][753]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.34:116][754]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.34:195][754]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.34:299][754]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.34:373][754]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.34:476][754]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.34:583][757]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.34:651][757]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.34:804][759]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.36:841][798]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.36:876][799]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.37:041][803]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.37:116][805]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.37:640][807]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.38:227][820]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.38:977][828]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.41:979][867]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.42:577][882]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.42:727][887]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.42:894][892]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.42:937][893]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.43:746][905]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.47:309][957]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.47:402][959]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.47:440][960]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.48:842][987]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.49:501][999]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.49:553][  0]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.52:089][ 49]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.53:424][ 69]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.53:536][ 73]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.53:604][ 74]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.53:636][ 75]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.53:995][ 83]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.54:997][ 98]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.55:063][ 99]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.55:192][102]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.55:886][120]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.56:244][126]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.56:333][128]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.56:444][131]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.56:977][140]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.58:160][145]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.58:161][145]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.54.58:161][145]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbRight_X' for  Get MotionControllerThumbRight_X
+[2021.12.27-21.54.58:161][145]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbRight_Y' for  Get MotionControllerThumbRight_Y
+[2021.12.27-21.54.58:161][145]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbLeft_Y' for  Get MotionControllerThumbLeft_Y
+[2021.12.27-21.54.58:162][145]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbLeft_X' for  Get MotionControllerThumbLeft_X
+[2021.12.27-21.54.58:163][145]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'TeleportRight' for  InputAction TeleportRight
+[2021.12.27-21.54.58:163][145]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'TeleportLeft' for  InputAction TeleportLeft
+[2021.12.27-21.54.58:163][145]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'GrabRight' for  InputAction GrabRight
+[2021.12.27-21.54.58:164][145]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'GrabLeft' for  InputAction GrabLeft
+[2021.12.27-21.54.58:264][145]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.MannequinHand_Right_Grab
+[2021.12.27-21.54.58:264][145]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.MannequinHand_Right_Grab) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2021.12.27-21.54.58:284][145]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.MannequinHand_Right_Open
+[2021.12.27-21.54.58:284][145]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.MannequinHand_Right_Open) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2021.12.27-21.54.58:455][145]LogStaticMesh: Building static mesh SM_FatCylinder...
+[2021.12.27-21.54.59:833][145]LogStaticMesh: Built static mesh [1.39s] /Game/VirtualReality/Meshes/SM_FatCylinder.SM_FatCylinder
+[2021.12.27-21.55.00:013][145]LogStaticMesh: Building static mesh BeaconDirection...
+[2021.12.27-21.55.00:048][145]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.55.00:107][145]LogStaticMesh: Built static mesh [0.10s] /Game/VirtualReality/Meshes/BeaconDirection.BeaconDirection
+[2021.12.27-21.55.00:662][145]LogMaterial: Display: Missing cached shader map for material M_ArcEndpoint, compiling. 
+[2021.12.27-21.55.01:130][145]LogMaterial: Display: Missing cached shader map for material M_SplineArcMat, compiling. 
+[2021.12.27-21.55.01:235][145]LogStaticMesh: Building static mesh BeamMesh...
+[2021.12.27-21.55.01:413][145]LogStaticMesh: Built static mesh [0.18s] /Game/VirtualReality/Meshes/BeamMesh.BeamMesh
+[2021.12.27-21.55.01:566][145]LogStaticMesh: Building static mesh 1x1_cube...
+[2021.12.27-21.55.01:628][145]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.55.01:658][145]LogStaticMesh: Built static mesh [0.11s] /Game/VirtualReality/Meshes/1x1_cube.1x1_cube
+[2021.12.27-21.55.01:810][145]LogMaterial: Display: Missing cached shader map for material M_TeleportPreviews, compiling. 
+[2021.12.27-21.55.05:130][170]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.55.05:213][172]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.55.05:276][173]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.55.05:340][174]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.55.05:608][178]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.55.06:237][186]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.55.07:624][201]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.55.07:974][205]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.55.09:807][220]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.55.09:909][221]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.55.09:983][222]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.55.10:217][225]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.55.10:319][225]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.55.10:461][225]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.55.13:343][257]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.55.13:534][258]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.55.15:326][279]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.55.16:033][285]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.55.17:019][291]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 77
+[2021.12.27-21.55.34:626][402]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.55.34:626][402]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.55.34:626][402]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.55.44:508][463]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 67
+[2021.12.27-21.55.53:925][513]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.55.53:925][513]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.55.53:925][513]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.55.53:925][513]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.56.14:189][641]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.56.14:189][641]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.56.30:205][744]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 57
+[2021.12.27-21.56.34:646][772]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.56.34:646][772]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.56.34:646][772]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.57.12:763][ 17]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 47
+[2021.12.27-21.57.29:914][124]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.57.29:914][124]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.57.29:914][124]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.57.32:042][136]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.57.34:682][152]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.57.34:682][152]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.57.34:682][152]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.57.57:069][295]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 37
+[2021.12.27-21.58.17:346][427]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 27
+[2021.12.27-21.58.34:729][535]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.58.34:729][535]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.58.34:729][535]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.58.43:517][588]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.58.43:517][588]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.58.43:517][588]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.58.43:517][588]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-21.58.44:040][591]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 17
+[2021.12.27-21.59.09:339][756]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 7
+[2021.12.27-22.00.27:173][ 59]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.00.27:173][ 59]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.00.27:173][ 59]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.00.28:228][ 60]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.00.28:229][ 60]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.00.28:234][ 60]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.00.28:234][ 60]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.00.34:465][238]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.27-22.00.47:538][493]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.00.47:768][496]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.00.47:855][497]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.00.48:048][500]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.00.49:810][524]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2021.12.27-22.00.50:594][524]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 121 classes and 0 folders.
+[2021.12.27-22.00.54:068][524]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.00.54:068][524]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.00.54:068][524]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.00.54:068][524]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.00.57:132][525]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.00.57:132][525]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.00.57:249][525]LogSlate: Took 0.080941 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.12.27-22.01.02:834][541]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.01.36:384][641]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.01.45:273][667]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.01.47:127][669]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.01.47:128][669]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.01.47:835][672]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.01.47:835][672]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.01.49:927][678]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.01.49:927][678]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.01.51:942][680]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.01.51:942][680]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.01.51:942][680]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.01.51:942][680]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.01.51:942][680]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.01.51:942][680]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.01.51:942][680]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.01.55:452][708]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2021.12.27-22.02.00:554][829]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.02.01:407][831]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.02.22:479][917]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.02.22:479][917]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.02.22:726][918]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.02.23:276][920]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.02.25:529][926]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.02.27:216][930]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.02.27:216][930]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.02.27:398][931]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.02.28:269][931]LogUObjectHash: Compacting FUObjectHashTables data took  18.50ms
+[2021.12.27-22.02.28:281][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../Work/VideoGallery/VideoGallery/Saved/Autosaves/Game/Level/MainLevel_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.12.27-22.02.31:528][931]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.02.31:528][931]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.02.31:699][931]LogSavePackage: Moving '../../../../../Work/VideoGallery/VideoGallery/Saved/MainLevel_Auto1E8E9022C4E972059BE81DDA9E9F5D57D.tmp' to '../../../../../Work/VideoGallery/VideoGallery/Saved/Autosaves/Game/Level/MainLevel_Auto1.umap'
+[2021.12.27-22.02.31:724][931]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/MainLevel' took 3.682
+[2021.12.27-22.02.31:724][931]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.682
+[2021.12.27-22.02.32:859][931]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.02.32:860][931]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.02.32:860][931]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.02.32:860][931]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.02.32:860][931]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.02.33:597][934]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.02.34:704][937]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.02.56:869][  0]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.02.57:322][  2]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.03.09:833][ 39]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.03.10:149][ 40]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.03.10:432][ 41]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.04.31:421][362]BlueprintLog: New page: Compile MotionControllerPawn
+[2021.12.27-22.04.31:456][362]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbRight_X' for  Get MotionControllerThumbRight_X
+[2021.12.27-22.04.31:456][362]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbRight_Y' for  Get MotionControllerThumbRight_Y
+[2021.12.27-22.04.31:457][362]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbLeft_Y' for  Get MotionControllerThumbLeft_Y
+[2021.12.27-22.04.31:457][362]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbLeft_X' for  Get MotionControllerThumbLeft_X
+[2021.12.27-22.04.31:458][362]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'TeleportRight' for  InputAction TeleportRight
+[2021.12.27-22.04.31:459][362]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'TeleportLeft' for  InputAction TeleportLeft
+[2021.12.27-22.04.31:460][362]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'GrabRight' for  InputAction GrabRight
+[2021.12.27-22.04.31:460][362]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'GrabLeft' for  InputAction GrabLeft
+[2021.12.27-22.04.32:421][362]LogUObjectHash: Compacting FUObjectHashTables data took  29.26ms
+[2021.12.27-22.04.33:822][379]LogSavePackage: Moving '../../../../../Work/VideoGallery/VideoGallery/Saved/MotionControllerPawn843D6E5D421D24C9CB3835905C1C2098.tmp' to '../../../../../Work/VideoGallery/VideoGallery/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2021.12.27-22.04.33:885][379]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2021.12.27-22.04.33:885][379]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2021.12.27-22.04.40:522][551]BlueprintLog: New page: Compile MotionControllerPawn
+[2021.12.27-22.04.40:547][551]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbRight_X' for  Get MotionControllerThumbRight_X
+[2021.12.27-22.04.40:547][551]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbRight_Y' for  Get MotionControllerThumbRight_Y
+[2021.12.27-22.04.40:547][551]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbLeft_Y' for  Get MotionControllerThumbLeft_Y
+[2021.12.27-22.04.40:547][551]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbLeft_X' for  Get MotionControllerThumbLeft_X
+[2021.12.27-22.04.40:548][551]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'TeleportRight' for  InputAction TeleportRight
+[2021.12.27-22.04.40:548][551]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'TeleportLeft' for  InputAction TeleportLeft
+[2021.12.27-22.04.41:373][551]LogUObjectHash: Compacting FUObjectHashTables data took  14.52ms
+[2021.12.27-22.04.41:704][551]LogSavePackage: Moving '../../../../../Work/VideoGallery/VideoGallery/Saved/MotionControllerPawnC34315544147466078528EA556391D02.tmp' to '../../../../../Work/VideoGallery/VideoGallery/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2021.12.27-22.04.41:798][551]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2021.12.27-22.04.41:798][551]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2021.12.27-22.04.53:119][781]LogRenderer: Reallocating scene render targets to support 1068x684 Format 10 NumSamples 1 (Frame:1).
+[2021.12.27-22.04.53:153][782]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.04.55:243][818]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.04.55:532][826]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.04.58:011][875]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.04.58:300][877]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.04.58:772][883]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.05.02:405][884]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.05.31:391][970]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.06.13:562][ 95]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.06.53:889][215]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.06.53:889][215]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.07.48:742][377]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.11:304][444]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.11:689][445]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.12:752][460]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.14:804][504]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.15:353][512]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.15:487][513]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.16:877][528]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level/MainLevel.MainLevel:PersistentLevel.MainLevel
+[2021.12.27-22.08.28:924][746]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.28:924][746]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.28:924][746]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.37:186][767]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.38:390][770]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.39:494][773]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.41:938][778]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.43:705][783]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.45:265][787]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.53:738][810]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.53:738][810]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.53:738][810]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.54:165][811]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.58:327][822]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.58:327][822]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.58:327][822]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.58:327][822]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.58:328][822]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.58:328][822]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.58:748][822]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.58:748][822]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.58:748][822]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.08.58:748][822]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.09.03:273][835]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.09.09:268][853]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.09.11:380][857]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.09.12:062][859]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.09.12:062][859]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.09.15:913][870]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.11.06:197][975]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.12.27-22.11.21:696][975]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.12.27-22.11.29:795][204]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/Widget.Widget
+[2021.12.27-22.11.30:857][205]LogRenderer: Reallocating scene render targets to support 1068x868 Format 10 NumSamples 1 (Frame:1).
+[2021.12.27-22.11.36:103][324]LogUObjectHash: Compacting FUObjectHashTables data took  15.17ms
+[2021.12.27-22.11.36:125][324]LogMetaData: Removing '/Game/Player/BP_WidgetActor.BP_WidgetActor:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Player/Widget.PackageMetaData'
+[2021.12.27-22.11.36:125][324]LogMetaData: Removing '/Game/Player/BP_WidgetActor.SKEL_BP_WidgetActor_C' ref from Metadata '/Game/Player/Widget.PackageMetaData'
+[2021.12.27-22.11.36:125][324]LogMetaData: Removing '/Game/Player/BP_WidgetActor.BP_WidgetActor_C' ref from Metadata '/Game/Player/Widget.PackageMetaData'
+[2021.12.27-22.11.36:125][324]LogMetaData: Removing '/Game/Player/BP_WidgetActor.BP_WidgetActor:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Player/Widget.PackageMetaData'
+[2021.12.27-22.11.36:125][324]LogMetaData: Removing '/Game/Player/BP_WidgetActor.BP_WidgetActor:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Player/Widget.PackageMetaData'
+[2021.12.27-22.11.36:125][324]LogMetaData: Removing '/Game/Player/BP_WidgetActor.BP_WidgetActor:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Player/Widget.PackageMetaData'
+[2021.12.27-22.11.36:272][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_WidgetActor" FILE="../../../../../Work/VideoGallery/VideoGallery/Content/Player/BP_WidgetActor.uasset" SILENT=true
+[2021.12.27-22.11.36:289][324]LogSavePackage: Moving '../../../../../Work/VideoGallery/VideoGallery/Saved/BP_WidgetActor63C91BB1415FE9B4102645804CC8B788.tmp' to '../../../../../Work/VideoGallery/VideoGallery/Content/Player/BP_WidgetActor.uasset'
+[2021.12.27-22.11.36:949][324]LogUObjectHash: Compacting FUObjectHashTables data took  10.53ms
+[2021.12.27-22.11.37:130][324]LogUObjectHash: Compacting FUObjectHashTables data took   7.82ms
+[2021.12.27-22.11.37:256][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.12.27-22.11.37:365][324]AssetCheck: New page: Asset Save: BP_WidgetActor
+[2021.12.27-22.11.37:365][324]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_WidgetActor.BP_WidgetActor
+[2021.12.27-22.11.41:069][416]BlueprintLog: New page: Compile MainLevel
+[2021.12.27-22.11.41:736][416]LogUObjectHash: Compacting FUObjectHashTables data took  11.36ms
+[2021.12.27-22.11.42:077][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../Work/VideoGallery/VideoGallery/Content/Level/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.27-22.11.42:200][420]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.12.27-22.11.42:900][420]LogSavePackage: Moving '../../../../../Work/VideoGallery/VideoGallery/Saved/MainLevel533F35B14F94CA8DD7D047A7FBB9A74E.tmp' to '../../../../../Work/VideoGallery/VideoGallery/Content/Level/MainLevel.umap'
+[2021.12.27-22.11.42:958][420]LogFileHelpers: Saving map 'MainLevel' took 0.881
+[2021.12.27-22.11.43:087][420]AssetCheck: New page: Asset Save: MainLevel
+[2021.12.27-22.11.43:087][420]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2021.12.27-22.11.45:059][427]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.11.46:277][428]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.11.46:277][428]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.11.46:581][429]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.11.50:324][453]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.11.50:324][453]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.11.50:740][454]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.11.51:745][455]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.11.51:745][455]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.11.51:745][455]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.11.53:113][458]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.12.14:168][966]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.12.14:658][967]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.12.14:658][967]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.12.14:658][967]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.12.29:821][365]BlueprintLog: New page: Compile MotionControllerPawn
+[2021.12.27-22.12.29:840][365]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'TeleportLeft' for  InputAction TeleportLeft
+[2021.12.27-22.12.29:842][365]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'TeleportRight' for  InputAction TeleportRight
+[2021.12.27-22.12.30:560][365]LogUObjectHash: Compacting FUObjectHashTables data took  11.31ms
+[2021.12.27-22.12.31:978][382]LogSavePackage: Moving '../../../../../Work/VideoGallery/VideoGallery/Saved/MotionControllerPawn9D0BEC314590B454BFB9C9A82A5481B8.tmp' to '../../../../../Work/VideoGallery/VideoGallery/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2021.12.27-22.12.32:051][382]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2021.12.27-22.12.32:051][382]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2021.12.27-22.12.40:967][585]BlueprintLog: New page: Compile MotionControllerPawn
+[2021.12.27-22.12.40:986][585]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'TeleportLeft' for  InputAction TeleportLeft
+[2021.12.27-22.12.40:987][585]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'TeleportRight' for  InputAction TeleportRight
+[2021.12.27-22.12.41:691][585]LogUObjectHash: Compacting FUObjectHashTables data took  14.99ms
+[2021.12.27-22.12.43:615][594]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.12.44:524][595]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.12.48:417][606]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.12.48:717][607]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.12.49:036][608]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.12.54:446][612]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.12.54:446][612]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.12.54:446][612]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.13.01:559][633]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.13.02:015][634]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.13.02:258][635]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.13.08:248][793]BlueprintLog: New page: Compile MotionControllerPawn
+[2021.12.27-22.13.08:264][793]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'TeleportLeft' for  InputAction TeleportLeft
+[2021.12.27-22.13.08:265][793]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'TeleportRight' for  InputAction TeleportRight
+[2021.12.27-22.13.08:965][793]LogUObjectHash: Compacting FUObjectHashTables data took  15.28ms
+[2021.12.27-22.13.11:824][843]BlueprintLog: New page: Compile MotionControllerPawn
+[2021.12.27-22.13.11:840][843]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'TeleportLeft' for  InputAction TeleportLeft
+[2021.12.27-22.13.11:840][843]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'TeleportRight' for  InputAction TeleportRight
+[2021.12.27-22.13.12:507][843]LogUObjectHash: Compacting FUObjectHashTables data took  15.26ms
+[2021.12.27-22.13.19:335][990]BlueprintLog: New page: Compile MotionControllerPawn
+[2021.12.27-22.13.20:054][990]LogUObjectHash: Compacting FUObjectHashTables data took  12.80ms
+[2021.12.27-22.13.20:328][990]LogSavePackage: Moving '../../../../../Work/VideoGallery/VideoGallery/Saved/MotionControllerPawnF7ED38A74978B20BBCA8889C6CEEB419.tmp' to '../../../../../Work/VideoGallery/VideoGallery/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2021.12.27-22.13.20:400][990]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2021.12.27-22.13.20:400][990]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2021.12.27-22.13.50:923][694]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.27-22.13.53:029][715]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.12.27-22.13.56:515][715]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.13.56:515][715]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.13.56:516][715]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.12.27-22.13.56:516][715]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.486 s
+[2021.12.27-22.13.56:516][715]LogOutputDevice: Error: === Handled ensure: ===
+[2021.12.27-22.13.56:516][715]LogOutputDevice: Error: 
+[2021.12.27-22.13.56:516][715]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid [File:D:/Build/++UE4/Sync/Engine/Source/Editor/GraphEditor/Private/SGraphPin.cpp] [Line: 561]
+[2021.12.27-22.13.56:516][715]LogOutputDevice: Error: 
+[2021.12.27-22.13.56:516][715]LogOutputDevice: Error: Stack: 
+[2021.12.27-22.13.56:516][715]LogOutputDevice: Error: [Callstack] 0x00007ffce21edd59 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.12.27-22.13.56:516][715]LogOutputDevice: Error: [Callstack] 0x00007ffce20ffcf1 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.12.27-22.13.56:516][715]LogOutputDevice: Error: [Callstack] 0x00007ffcf793f9ac UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.27-22.13.56:517][715]LogOutputDevice: Error: [Callstack] 0x00007ffcf79c8e37 UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.27-22.13.56:517][715]LogOutputDevice: Error: [Callstack] 0x00007ffcf79b4ae5 UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.27-22.13.56:517][715]LogOutputDevice: Error: [Callstack] 0x00007ffcf79a8ce2 UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.27-22.13.56:517][715]LogOutputDevice: Error: [Callstack] 0x00007ffd014c4ae7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.12.27-22.13.56:517][715]LogOutputDevice: Error: [Callstack] 0x00007ffd014b242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.12.27-22.13.56:517][715]LogOutputDevice: Error: [Callstack] 0x00007ffd014c7195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.12.27-22.13.56:517][715]LogOutputDevice: Error: [Callstack] 0x00007ffd014aec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.12.27-22.13.56:517][715]LogOutputDevice: Error: [Callstack] 0x00007ffd206c5c1d USER32.dll!UnknownFunction []
+[2021.12.27-22.13.56:517][715]LogOutputDevice: Error: [Callstack] 0x00007ffd206c5612 USER32.dll!UnknownFunction []
+[2021.12.27-22.13.56:517][715]LogOutputDevice: Error: [Callstack] 0x00007ffd014c8699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.12.27-22.13.56:517][715]LogOutputDevice: Error: [Callstack] 0x00007ff651e96db0 UE4Editor.exe!UnknownFunction []
+[2021.12.27-22.13.56:517][715]LogOutputDevice: Error: [Callstack] 0x00007ff651eac3ec UE4Editor.exe!UnknownFunction []
+[2021.12.27-22.13.56:517][715]LogOutputDevice: Error: [Callstack] 0x00007ff651eac4ca UE4Editor.exe!UnknownFunction []
+[2021.12.27-22.13.56:517][715]LogOutputDevice: Error: [Callstack] 0x00007ff651ebceae UE4Editor.exe!UnknownFunction []
+[2021.12.27-22.13.56:517][715]LogOutputDevice: Error: [Callstack] 0x00007ff651ebfcbe UE4Editor.exe!UnknownFunction []
+[2021.12.27-22.13.56:517][715]LogOutputDevice: Error: [Callstack] 0x00007ffd20607c24 KERNEL32.DLL!UnknownFunction []
+[2021.12.27-22.13.56:517][715]LogOutputDevice: Error: [Callstack] 0x00007ffd2132d4d1 ntdll.dll!UnknownFunction []
+[2021.12.27-22.13.56:517][715]LogOutputDevice: Error: 
+[2021.12.27-22.13.56:675][715]LogStats:                SubmitErrorReport -  0.000 s
